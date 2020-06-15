@@ -1,11 +1,11 @@
 INSERT INTO burgers
     (name)
 VALUES
-    ('Cheese Burger');
+    ('Big Mac Burger');
 INSERT INTO burgers
     (name)
 VALUES
-    ('Double Cheese Burger');
+    ('Impossible Burger');
 INSERT INTO burgers
     (name, devoured)
 VALUES
@@ -13,12 +13,8 @@ VALUES
 INSERT INTO burgers
     (name, devoured)
 VALUES
-    ('Chicken', true);
-INSERT INTO burgers
-    (name, devoured)
-VALUES
-    ('Impossible Burger', true);
+    ('Quarter Pounder Burger', true);
 INSERT INTO burgers
     (name)
 VALUES
-    ('Veggie');
+    ('Chicken');
