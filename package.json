@@ -4,7 +4,7 @@
   "description": "Description\r This application demonstrates a simple full stack application with a front end implemented with HTML/CSS and elements from the Materialize framework and the backend Node.js and Express.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^4.0.4",
     "method-override": "^3.0.0",
     "mysql": "^2.18.1"
